@@ -1,6 +1,8 @@
 <!-- repo-card -->
 ![ecom-chat-engine](docs/assets/social-card.png)
 
+![ecom-chat-engine — architecture](docs/assets/architecture.png)
+
 # Ecom Chat Engine
 
 An intelligent e-commerce customer support chatbot backend powered by OpenAI's GPT-3.5 Turbo. Designed to integrate with online stores as a conversational AI assistant for handling customer inquiries.
